@@ -1,5 +1,5 @@
-class affichage{
-    public static void main(String args[]){
-     System.out.println("Hello World");
+classe  affichage {
+    public  static  void  main ( Chaîne  args []){
+     Système . dehors . println ( "Formation devops Goldentechnoly " );
     }
 }
